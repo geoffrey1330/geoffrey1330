@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### `I am Geoffrey Israel` (ps: <b>AI</b> was intentionally capitalized to mean Artificial Inteligence cause am definitely more than a fan :grin:) <br>I am a software developer. I love building intelligent applications.
+#### `I am Geoffrey Israel` <br>I am a software developer. I love building secure and scalable applications.
 
 ## KEY SKILLS
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
