@@ -14,7 +14,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React.js](https://img.shields.io/badge/-React.js-000?&logo=react.js)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
 ![Django](https://img.shields.io/badge/Django--000000?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask--000000?style=flat&logo=Flask)
