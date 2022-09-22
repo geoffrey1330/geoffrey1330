@@ -21,7 +21,6 @@
 ![Flask](https://img.shields.io/badge/Flask--000000?style=flat&logo=Flask)
 ![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
-![Amazon Web Services](https://img.shields.io/badge/AWS--000000?style=flat&logo=amazon)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
@@ -29,42 +28,4 @@
 
 
 
-
-
-
-
-
-
-
-### Hi there 👋
-
-#### `I am Geoffrey Israel` <br>I am a software and a cloud devops engineer. I love building secure and scalable applications.
-
-## KEY SKILLS
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![django](https://img.shields.io/badge/-django-%233776AB?style=flat-square&logo=django&logoColor=ffffff)
-![React](https://img.shields.io/badge/-react-%233776AB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-... and lots more
-
-## COLABORATE
-#### 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
-
-## CONTACT ME
-#### :envelope: want to reach me? be sure to send me a mail (israelgeoffrey13@gmail.com)
-<!--
-**esiebomaj/esiebomaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.adamalston.com/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=geoffrey1330&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="140px" weight="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey1330&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=AI-Invasion2019,competitive-data-science&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
