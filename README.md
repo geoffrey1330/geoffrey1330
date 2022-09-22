@@ -1,4 +1,4 @@
-[![me](https://img.shields.io/badge/Geoffrey%20Israel-Software%20Engineer-Devops%20Engineer-blue?style=for-the-badge&logo=ansible&logoColor=white)](my-url)
+[![me](https://img.shields.io/badge/Geoffrey%20Israel-Software%20Engineer&Devops%20Engineer-blue?style=for-the-badge&logo=ansible&logoColor=white)](my-url)
 
 ### Hi there 👋
 
