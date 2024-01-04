@@ -14,6 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)
