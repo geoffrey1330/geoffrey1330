@@ -1,6 +1,6 @@
 [![me](https://img.shields.io/badge/Geoffrey%20Israel-Software%20&%20Devops%20Engineer-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/geoffrey1330)
 
-### Languages
+<!-- ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
@@ -27,5 +27,5 @@
 ![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) -->
 
